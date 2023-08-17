@@ -1,0 +1,83 @@
+button{
+    background-color: rgb(254, 254, 254);
+    size: 30px;
+    
+}
+body{
+    background-color: aliceblue;
+}
+.form_order{
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 95%;
+  background-color: #FFD900;
+  font-size: xx-large;
+
+
+}
+
+
+.card {
+    margin-top: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 95%;
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 45px;
+    width: 800px;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-right: 80px;
+
+  }
+  .card-img-top {
+    width: 80px;
+    height: 100%;
+    object-fit: cover;
+  }
+  .card-title{
+    font-size: 65px;
+    text-align: center;
+    font-family: Trebuchet  (sans-serif);
+    justify-content: space-between;
+    
+    
+  }
+  
+  .price {
+    color: grey;
+    font-size: 70px;
+  }
+  
+  .card-button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(15, 0, 75);
+    background-color: #FFD900;
+    text-align: center;
+    cursor: pointer;
+    width: 80%;
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+    
+  }
+.form-fieldset1{
+  padding: 20px;
+}
+
+.modal-adders{
+  width: 80%;
+}
+
+
+
+
+  
